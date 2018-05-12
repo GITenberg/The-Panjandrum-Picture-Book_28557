@@ -1,0 +1,31 @@
+_repo: The-Panjandrum-Picture-Book_28557
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28557-h/images/illus-cover-1.jpg
+creator:
+  author:
+    agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+description: ''
+gutenberg_issued: '2009-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Picture books for children'
+- !lcc 'PZ'
+- !lcsh 'Nursery rhymes'
+tableOfContents: Come lasses and lads -- Ride a cock-horse to Banbury Cross -- A farmer
+  went trotting upon his grey mare -- Mrs. Mary Blaize -- The great Panjandrum himself.
+title: The Panjandrum Picture Book
+url: http://www.gutenberg.org/ebooks/28557
